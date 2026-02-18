@@ -1,0 +1,6 @@
+2
+ABCDA
+2
+ABA
+3
+AABAA
